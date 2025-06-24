@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/educonnect-portal-113579-e900ef87/student_exam_frontend_workspace/student_exam_frontend"
+}

@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && uvicorn src.api.main:app --host 0.0.0.0 --port <port> --reload",
+    "working_directory": "/home/kavia/workspace/code-generation/educonnect-portal-113579-e900ef87/student_exam_api_workspace/student_exam_api"
+}
